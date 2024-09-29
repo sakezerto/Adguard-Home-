@@ -23,3 +23,17 @@ Adguard-Home-Backup
 
 ![screenshot-1727629578997](https://github.com/user-attachments/assets/298a657c-569b-4701-b566-c5a41aab0d87)
 
+3-openclash配置
+
+![screenshot-1727629578997](https://github.com/user-attachments/assets/59706147-3269-4b12-8688-4eeeb25b17af)
+
+
+
+
+
+
+
+
+
+
+
