@@ -17,7 +17,9 @@ Adguard-Home-Backup
 
 ![screenshot-1727629578997](https://github.com/user-attachments/assets/d22c1c7d-3b03-42f4-9287-d8c187c91fdf)
 
+2-mosdns配置
 
+![screenshot-1727629578997](https://github.com/user-attachments/assets/add3a14c-6855-4744-8f90-ebe2316a973b)
 
-
+![screenshot-1727629578997](https://github.com/user-attachments/assets/298a657c-569b-4701-b566-c5a41aab0d87)
 
