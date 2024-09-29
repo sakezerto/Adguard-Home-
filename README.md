@@ -2,6 +2,7 @@ Adguard-Home-Backup
 自用adh配置备份
 
 1-adg配置
+adblockfilters 为该项目：https://github.com/217heidai/adblockfilters
 
 最初设定时，80那行改成3000  53那行改成5336
 
