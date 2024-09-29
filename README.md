@@ -33,9 +33,13 @@ Adguard-Home-Backup
 
 ![screenshot-1727629578997](https://github.com/user-attachments/assets/74ffc48d-571c-415d-b1ea-90d643ad5c79)
 
+![screenshot-1727629578997](https://github.com/user-attachments/assets/ae152635-30b3-47ce-b4b1-10091b0713f7)
 
+![screenshot-1727629578997](https://github.com/user-attachments/assets/be8f8170-1623-4180-8825-044903f2a0f4)
 
+![screenshot-1727629578997](https://github.com/user-attachments/assets/f5e2900c-c475-4eb2-b23e-45febbfabadc)
 
+![screenshot-1727629578997](https://github.com/user-attachments/assets/c6ab21d1-4a1a-4105-b36e-9c3eccd17b90)
 
-
+其余默认
 
